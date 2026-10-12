@@ -1,1 +1,0 @@
-# human-activity-recognition-ml
